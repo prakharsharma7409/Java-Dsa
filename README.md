@@ -1,11 +1,11 @@
 # Java-Dsa
-# Data Structures and Algorithms in Java (Apna College)
+# Data Structures and Algorithms in Java
 
-This repository contains my solutions for the Data Structures and Algorithms (DSA) course taught by Apna College.  I'm working through the course materials and implementing the concepts in Java.  This README will help you navigate the repository and understand the code.
+This repository contains my solutions and notes for a Data Structures and Algorithms (DSA) course. I'm working through the course materials and implementing the concepts in Java. This README will help you navigate the repository and understand the code.
 
 ## Course Overview
 
-The Apna College DSA course covers fundamental data structures and algorithms, providing a strong foundation for problem-solving and software development.  The course typically includes topics such as:
+The DSA course covers fundamental data structures and algorithms, providing a strong foundation for problem-solving and software development. The course typically includes topics such as:
 
 * **Basic Concepts:** Time and Space Complexity, Big O Notation
 * **Data Structures:** Arrays, Linked Lists, Stacks, Queues, Trees (Binary Trees, Binary Search Trees, Heaps, AVL Trees, etc.), Graphs, Hash Tables
